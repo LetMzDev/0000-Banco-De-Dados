@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Laranja",
+      "region": "Sumeru",
+      "current": 200,
+      "ideal": 10,
+      "balance": 190,
+      "characters": [
+        {
+          "name": "Jessie",
+          "need": 10,
+          "image": null
+        }
+      ],
+      "image": null
+    }
+  ],
+  "activeItemId": 1
+}
