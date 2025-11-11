@@ -9,12 +9,10 @@
       "balance": 185,
       "characters": [
         {
-          "name": "Lia",
+          "name": "Mel",
           "need": 15,
           "image": {
-            "fileName": "Jessie_IMG.png",
-            "filePath": "blob:null/b3ba6b4a-e1cf-472c-822a-e3b81dfe93eb",
-            "fullPath": "C:\\Users\\Rafael\\Desktop\\Projetos\\Banco_De_Dados_Json\\Genshin_Impact__BD\\images\\Jessie_IMG.png"
+            "fileName": "Jessie_IMG.png"
           }
         }
       ],
