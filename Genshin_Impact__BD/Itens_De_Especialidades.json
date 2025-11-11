@@ -5,18 +5,20 @@
       "name": "Morango",
       "region": "Fontaine",
       "current": 200,
-      "ideal": 15,
-      "balance": 185,
+      "ideal": 25,
+      "balance": 175,
       "characters": [
         {
-          "name": "Mel",
-          "need": 15,
+          "name": "Ale",
+          "need": 25,
           "image": {
-            "fileName": "Jessie_IMG.png"
+            "fileName": "Lia.png"
           }
         }
       ],
-      "image": null
+      "image": {
+        "fileName": "item.png"
+      }
     }
   ],
   "activeItemId": 1
