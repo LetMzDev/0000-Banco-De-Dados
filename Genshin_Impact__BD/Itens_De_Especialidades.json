@@ -2,24 +2,1141 @@
   "items": [
     {
       "id": 1,
-      "name": "Morango",
-      "region": "Fontaine",
-      "current": 200,
-      "ideal": 25,
-      "balance": 175,
+      "name": "Lâmpada de Grama",
+      "region": "Mondstadt",
+      "current": 684,
+      "ideal": 0,
+      "balance": 684,
       "characters": [
         {
-          "name": "Ale",
-          "need": 25,
-          "image": {
-            "fileName": "Lia.png"
-          }
+          "name": "Amber",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Amber_icon.png"
+        },
+        {
+          "name": "Diluc",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Diluc_icon.png"
+        },
+        {
+          "name": "Fischl",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Fischl_icon.png"
         }
       ],
       "image": {
         "fileName": "item.png"
-      }
+      },
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Small%2520Lamp%2520Grass_icon.png"
+    },
+    {
+      "id": 2,
+      "name": "Cogumelo Philanemo",
+      "region": "Mondstadt",
+      "current": 287,
+      "ideal": 0,
+      "balance": 287,
+      "characters": [
+        {
+          "name": "Barbara",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Barbara_icon.png"
+        },
+        {
+          "name": "Mona",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Mona_icon.png"
+        },
+        {
+          "name": "Klee",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Klee_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Philanemo%2520Mushroom_icon.png"
+    },
+    {
+      "id": 3,
+      "name": "Jade Nocticulosa",
+      "region": "Liyue",
+      "current": 242,
+      "ideal": 0,
+      "balance": 242,
+      "characters": [
+        {
+          "name": "Beidou",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Beidou_icon.png"
+        },
+        {
+          "name": "Yanfei",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Yanfei_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Noctilucous%2520Jade_icon.png"
+    },
+    {
+      "id": 4,
+      "name": "Margaridas Voadoras",
+      "region": "Mondstadt",
+      "current": 1298,
+      "ideal": 0,
+      "balance": 1298,
+      "characters": [
+        {
+          "name": "Bennett",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Bennett_icon.png"
+        },
+        {
+          "name": "Sucrose",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Sucrose_icon.png"
+        },
+        {
+          "name": "Artemisia",
+          "need": 0,
+          "imageURL": "https://gensh.honeyhunterworld.com/img/playergirl_007_icon.webp"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Windwheel%2520Aster_icon.png"
+    },
+    {
+      "id": 5,
+      "name": "Cor Lapis",
+      "region": "Liyue",
+      "current": 223,
+      "ideal": 60,
+      "balance": 163,
+      "characters": [
+        {
+          "name": "Chongyun",
+          "need": 60,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Chongyun_icon.png"
+        },
+        {
+          "name": "Keqing",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Keqing_icon.png"
+        },
+        {
+          "name": "Zhongli",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Zhongli_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Cor%2520Lapis_icon.png"
+    },
+    {
+      "id": 6,
+      "name": "Sementes de Dandelion",
+      "region": "Mondstadt",
+      "current": 180,
+      "ideal": 0,
+      "balance": 180,
+      "characters": [
+        {
+          "name": "Jean",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Jean_icon.png"
+        },
+        {
+          "name": "Eula",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Eula_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Dandelion%2520Seed_icon.png"
+    },
+    {
+      "id": 7,
+      "name": "Lótus de Leite",
+      "region": "Mondstadt",
+      "current": 728,
+      "ideal": 168,
+      "balance": 560,
+      "characters": [
+        {
+          "name": "Kaeya",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kaeya_icon.png"
+        },
+        {
+          "name": "Diona",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Diona_icon.png"
+        },
+        {
+          "name": "Dahlia",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/16/255dedc5048565aec2c5af510c6f74a5_7726536808309970424.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Calla%2520Lily_icon.png"
+    },
+    {
+      "id": 8,
+      "name": "Valberry",
+      "region": "Mondstadt",
+      "current": 995,
+      "ideal": 0,
+      "balance": 995,
+      "characters": [
+        {
+          "name": "Lisa",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Lisa_icon.png"
+        },
+        {
+          "name": "Noelle",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Noelle_icon.png"
+        },
+        {
+          "name": "Rosaria",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Rosaria_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Valberry_icon.png"
+    },
+    {
+      "id": 9,
+      "name": "Lírio de Vidro",
+      "region": "Liyue",
+      "current": 590,
+      "ideal": 0,
+      "balance": 590,
+      "characters": [
+        {
+          "name": "Ningguang",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Ningguang_icon.png"
+        },
+        {
+          "name": "Yunjin",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Yun%2520Jin_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Glaze%2520Lily_icon.png"
+    },
+    {
+      "id": 10,
+      "name": "Violeta",
+      "region": "Liyue",
+      "current": 326,
+      "ideal": 225,
+      "balance": 101,
+      "characters": [
+        {
+          "name": "Qiqi",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Qiqi_icon.png"
+        },
+        {
+          "name": "Xinyan",
+          "need": 60,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Xinyan_icon.png"
+        },
+        {
+          "name": "Baizhu",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/04/12804176/05599650d7f42e1c4adde373de6b297d_7647946592614991692.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Violetgrass_icon.png"
+    },
+    {
+      "id": 11,
+      "name": "Gancho do Lobo",
+      "region": "Mondstadt",
+      "current": 377,
+      "ideal": 228,
+      "balance": 149,
+      "characters": [
+        {
+          "name": "Razor",
+          "need": 60,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Razor_icon.png"
+        },
+        {
+          "name": "Mika",
+          "need": 168,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/22/89220822/da13e3b1a2c6c0e5892b201cec735f9b_1638991891275146899.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Wolfhook_icon.png"
+    },
+    {
+      "id": 12,
+      "name": "Cecília",
+      "region": "Mondstadt",
+      "current": 455,
+      "ideal": 168,
+      "balance": 287,
+      "characters": [
+        {
+          "name": "Venti",
+          "need": 168,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Venti_icon.png"
+        },
+        {
+          "name": "Albedo",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Albedo_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Cecilia_icon.png"
+    },
+    {
+      "id": 13,
+      "name": "Pimenta de Jueyun",
+      "region": "Liyue",
+      "current": 460,
+      "ideal": 105,
+      "balance": 355,
+      "characters": [
+        {
+          "name": "Xiangling",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Xiangling_icon.png"
+        },
+        {
+          "name": "Yaoyao",
+          "need": 105,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/15/8078404/5bc9df1fb67391e4c8080da3d855de53_3754990075803676567.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Jueyun%2520Chili_icon.png"
+    },
+    {
+      "id": 14,
+      "name": "Flor de Seda",
+      "region": "Liyue",
+      "current": 1193,
+      "ideal": 0,
+      "balance": 1193,
+      "characters": [
+        {
+          "name": "Xingqiu",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Xingqiu_icon.png"
+        },
+        {
+          "name": "Hutao",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Hu%2520Tao_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Silk%2520Flower_icon.png"
+    },
+    {
+      "id": 15,
+      "name": "Conchas Estreladas",
+      "region": "Liyue",
+      "current": 391,
+      "ideal": 225,
+      "balance": 166,
+      "characters": [
+        {
+          "name": "Tartaglia",
+          "need": 60,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Tartaglia_icon.png"
+        },
+        {
+          "name": "Yelan",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Yelan_icon.png"
+        },
+        {
+          "name": "Gaming",
+          "need": 165,
+          "imageURL": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/19/327628065/b041ad23a9d6245efac952a9379c5114_5293278123914251887.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Starconch_icon.png"
+    },
+    {
+      "id": 16,
+      "name": "Qingxin",
+      "region": "Liyue",
+      "current": 424,
+      "ideal": 60,
+      "balance": 364,
+      "characters": [
+        {
+          "name": "Ganyu",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Ganyu_icon.png"
+        },
+        {
+          "name": "Xiao",
+          "need": 60,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Xiao_icon.png"
+        },
+        {
+          "name": "Shenhe",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Shenhe_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Qingxin_icon.png"
+    },
+    {
+      "id": 17,
+      "name": "Fungos Marítimos",
+      "region": "Inazuma",
+      "current": 550,
+      "ideal": 165,
+      "balance": 385,
+      "characters": [
+        {
+          "name": "Kaedehara Kazuha",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kaedehara%2520Kazuha_icon.png"
+        },
+        {
+          "name": "Yae Miko",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Yae%2520Miko_icon.png"
+        },
+        {
+          "name": "Yumemizuki Mizuki",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/02/08/11662c12fb353d88bd2b20a2726c9f1c_8013472600677983943.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Sea%2520Ganoderma_icon.png"
+    },
+    {
+      "id": 18,
+      "name": "Pétalas da Flor de Sakura",
+      "region": "Inazuma",
+      "current": 255,
+      "ideal": 165,
+      "balance": 90,
+      "characters": [
+        {
+          "name": "Kamisato Ayaka",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kamisato%2520Ayaka_icon.png"
+        },
+        {
+          "name": "Kamisato Ayato",
+          "need": 165,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kamisato%2520Ayato_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Sakura%2520Bloom_icon.png"
+    },
+    {
+      "id": 19,
+      "name": "Medula de Cristal",
+      "region": "Inazuma",
+      "current": 92,
+      "ideal": 60,
+      "balance": 32,
+      "characters": [
+        {
+          "name": "Sayu",
+          "need": 60,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Sayu_icon.png"
+        },
+        {
+          "name": "Aloy",
+          "need": 0,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/01/169177528/92f6eddaf09e71b259bf80534ff8b640_3975109830708874484.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Crystal%2520Marrow_icon.png"
+    },
+    {
+      "id": 20,
+      "name": "Erva Naku",
+      "region": "Inazuma",
+      "current": 203,
+      "ideal": 0,
+      "balance": 203,
+      "characters": [
+        {
+          "name": "Yoimiya",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Yoimiya_icon.png"
+        },
+        {
+          "name": "Kuki Shinobu",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kuki%2520Shinobu_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Naku%2520Weed_icon.png"
+    },
+    {
+      "id": 21,
+      "name": "Dendróbio",
+      "region": "Inazuma",
+      "current": 228,
+      "ideal": 0,
+      "balance": 228,
+      "characters": [
+        {
+          "name": "Kujou Sara",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Kujou%2520Sara_icon.png"
+        },
+        {
+          "name": "Chiori",
+          "need": 0,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/01/29/d9c9cf2d11f4d01123a25aa109a28373_332003123654338807.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Dendrobium_icon.png"
+    },
+    {
+      "id": 22,
+      "name": "Fruto Tenkumo",
+      "region": "Inazuma",
+      "current": 331,
+      "ideal": 165,
+      "balance": 166,
+      "characters": [
+        {
+          "name": "Shogun Raiden",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Raiden%2520Shogun_icon.png"
+        },
+        {
+          "name": "Kirara",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/24/89220822/d1699810632f8c3bc8c1e8c8beb8250f_6769819129186227664.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Amakumo%2520Fruit_icon.png"
+    },
+    {
+      "id": 23,
+      "name": "Pérola Sango",
+      "region": "Inazuma",
+      "current": 175,
+      "ideal": 165,
+      "balance": 10,
+      "characters": [
+        {
+          "name": "Sangonomiya Kokomi",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Sangonomiya%2520Kokomi_icon.png"
+        },
+        {
+          "name": "Gorou",
+          "need": 165,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Gorou_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Sango%2520Pearl_icon.png"
+    },
+    {
+      "id": 24,
+      "name": "Fungos Fluorescentes",
+      "region": "Inazuma",
+      "current": 211,
+      "ideal": 135,
+      "balance": 76,
+      "characters": [
+        {
+          "name": "Thoma",
+          "need": 135,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Thoma_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Fluorescent%2520Fungus_icon.png"
+    },
+    {
+      "id": 25,
+      "name": "Onikabuto",
+      "region": "Inazuma",
+      "current": 40,
+      "ideal": 155,
+      "balance": -115,
+      "characters": [
+        {
+          "name": "Arataki Itto",
+          "need": 155,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Arataki%2520Itto_icon.png"
+        },
+        {
+          "name": "Shikanoin Heizou",
+          "need": 0,
+          "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/Shikanoin%2520Heizou_icon.png"
+        }
+      ],
+      "imageURL": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/object/Onikabuto_icon.png"
+    },
+    {
+      "id": 26,
+      "name": "Lótus Kalpalata",
+      "region": "Sumeru",
+      "current": 7,
+      "ideal": 165,
+      "balance": -158,
+      "characters": [
+        {
+          "name": "Dori",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/10/8078404/6539bea71efd0f839db897cfc4094362_7060545492800233110.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Nahida",
+          "need": 0,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/31/6926027/f29490bddc56b4a6773b6c5003bbb853_259627165814207986.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/06/8078404/b34bf1d89d2aeab8a2642c978545f013_9062110226942936771.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 27,
+      "name": "Cogumelo Rukkhashava",
+      "region": "Sumeru",
+      "current": 104,
+      "ideal": 168,
+      "balance": -64,
+      "characters": [
+        {
+          "name": "Collei",
+          "need": 0,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/23/16791688/37a18b6b6865c59063003a9380f08225_5278866400438209057.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Andarilho",
+          "need": 168,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/06/16791688/24d97a22be742fb732ea96f625d1faac_6179643747821580209.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/29/16791688/fbfb9632c9668ce46422fa5b2acb9f0d_2830746585118701992.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 28,
+      "name": "Lótus Nilotpala",
+      "region": "Sumeru",
+      "current": 57,
+      "ideal": 330,
+      "balance": -273,
+      "characters": [
+        {
+          "name": "Tighnari",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/22/6926027/497dd6fac3d3c652a367c67428550747_951620929506896293.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Layla",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/11/16/16791688/48a495acadaf37f12d0a7f653d85bd83_147377982387517332.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/27/6926027/94ec74ffcf96eeabe1874aa104ec9e3e_7828040533260551471.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 29,
+      "name": "Bagas de Espinheiro",
+      "region": "Sumeru",
+      "current": 55,
+      "ideal": 330,
+      "balance": -275,
+      "characters": [
+        {
+          "name": "Candace",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/23/16791688/2f43da4ece9eabfbde6ec2fcc81b3bff_5035049344843066579.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Faruzan",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/05/16791688/38c12ab46678a4008f83a0e46c900ef5_2542346274933708256.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/29/6926027/b1349d8b231a7b65fbffd5dd33b1bb9b_4952181507962220256.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 30,
+      "name": "Escaravelho Dourado",
+      "region": "Sumeru",
+      "current": 13,
+      "ideal": 165,
+      "balance": -152,
+      "characters": [
+        {
+          "name": "Cyno",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/22/6926027/e09e2bda5e022611fad0dea1bb6518bb_2643611509346867500.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/29/6926027/d436215810b06e23cce5882df0cea16e_8261859860976994377.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 31,
+      "name": "Padisarah",
+      "region": "Sumeru",
+      "current": 202,
+      "ideal": 165,
+      "balance": 37,
+      "characters": [
+        {
+          "name": "Nilou",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/21/16791688/586d726f9ebda3506c78beaaa41f13b6_756855207633259471.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/08/16791688/cf7ed0ae379b9c2a97c5ae24c5c93020_5485506179180535502.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 32,
+      "name": "Gordura de Pupa de Areia",
+      "region": "Sumeru",
+      "current": 0,
+      "ideal": 330,
+      "balance": -330,
+      "characters": [
+        {
+          "name": "Alhaitham",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/12/8078404/25249dd20b86c775fb35bdbbd805d9ec_1621708276776511768.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Dehya",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/03/06/89220822/65b22311e1e38ffa45a4928d4005ecee_1005661713083117376.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/18/8078404/68a5eb3d0efa30c8749611ef1ce80d6c_8287917736974583973.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 33,
+      "name": "Flor do Luto",
+      "region": "Sumeru",
+      "current": 3,
+      "ideal": 165,
+      "balance": -162,
+      "characters": [
+        {
+          "name": "Kaveh",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/16/89220822/2270aba02b92034d7d76b4426be8f53b_1693033154442525886.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/05/18/89220822/3923725f79c52dcd34e6b19604450105_5973020939435748389.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 34,
+      "name": "Rosa Arco-Íris",
+      "region": "Fontaine",
+      "current": 109,
+      "ideal": 333,
+      "balance": -224,
+      "characters": [
+        {
+          "name": "Lyney",
+          "need": 168,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/03/59559639/e343d4442cc3b8e243f0d528bb715f75_4313588781914638849.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Arlecchino",
+          "need": 165,
+          "imageURL": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/04/24/11094433/69e63daf0dfdd87ef372481e981821c0_1866340374302052933.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/17/101132274/670b8958c90014a1bdacba5123c2c9da_1191091128352468028.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 35,
+      "name": "Campânula Lumidouce",
+      "region": "Fontaine",
+      "current": 133,
+      "ideal": 330,
+      "balance": -197,
+      "characters": [
+        {
+          "name": "Lynette",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/04/59559639/436e6f2b9b9006bfe511a98093259daf_786851561707919100.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Chevreuse",
+          "need": 165,
+          "imageURL": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/24/59559639/a846729f31f16a987a8696466ebabcc0_6725058705366070179.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/17/101132274/8c0e01560c70f5fc56e6719ae809d415_2329127443915370457.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 36,
+      "name": "Flor Rociomarinha",
+      "region": "Fontaine",
+      "current": 40,
+      "ideal": 333,
+      "balance": -293,
+      "characters": [
+        {
+          "name": "Freminet",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/09/101132274/8e44111a378f4e5379b8e7444e8c2daa_7629952329871790377.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Sigewinne",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/06/21/2d607aa4d729030ea04f79919257e311_5566730974573110495.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/08/19/101132274/d6429603c5f355d6722a5530c558e499_1953641743814277915.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 37,
+      "name": "Lumitoile",
+      "region": "Fontaine",
+      "current": 184,
+      "ideal": 336,
+      "balance": -152,
+      "characters": [
+        {
+          "name": "Neuvillette",
+          "need": 168,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/27/101132274/0513aa7f482dbb4778545d02f94956fe_916827246523274276.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Clorinde",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/29/770a66030815971c697ab81bc5436329_8660717987969952036.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://gensh.honeyhunterworld.com/img/i_n101237.webp"
+    },
+    {
+      "id": 38,
+      "name": "Unidade de Subdetecção",
+      "region": "Fontaine",
+      "current": 40,
+      "ideal": 165,
+      "balance": -125,
+      "characters": [
+        {
+          "name": "Wriothesley",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/18/59559639/31a0eb2dec5d69ca8dd7616572136b8b_8832196977977678933.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/10/19/59559639/3825519df83eccc4e1e6030fa80fe3cc_2316857444227542221.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 39,
+      "name": "Flor da Luz do Lago",
+      "region": "Fontaine",
+      "current": 1,
+      "ideal": 165,
+      "balance": -164,
+      "characters": [
+        {
+          "name": "Furina",
+          "need": 0,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/10/101132274/263e5ea0784d182b393f67a7e24146a5_4302086651062817901.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Emilie",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/07/31/87ad30965e0c1b45364fdccc51b3429d_6108610286145583716.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/09/327628065/c43e2d148b98d58c98a008b13e37b5b5_4425401761114720095.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 40,
+      "name": "Concha de Cristal Azul",
+      "region": "Fontaine",
+      "current": 10,
+      "ideal": 333,
+      "balance": -323,
+      "characters": [
+        {
+          "name": "Charlotte",
+          "need": 165,
+          "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/11/10/101132274/7bbbff3f35661a93b5091b1f17fae6c0_2121070525624575281.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Escoffier",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/04/30/ddbc128157d69479f61747f0918f9e72_2470321636402108639.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/09/23/59559639/c528fed9f65720b1d212e9b5e679ca9d_2409109269073777923.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 41,
+      "name": "Primavera do Primeiro Orvalho",
+      "region": "Fontaine",
+      "current": 206,
+      "ideal": 168,
+      "balance": 38,
+      "characters": [
+        {
+          "name": "Navia",
+          "need": 168,
+          "imageURL": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2023/12/22/59559639/3fc7580c01a9e622692402889706c4db_987831617704915527.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://gensh.honeyhunterworld.com/img/i_n101240.webp"
+    },
+    {
+      "id": 42,
+      "name": "Jade Cristalino",
+      "region": "Liyue",
+      "current": 0,
+      "ideal": 330,
+      "balance": -330,
+      "characters": [
+        {
+          "name": "Xianyun",
+          "need": 165,
+          "imageURL": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/02/20/59559639/2c2be27f8876e9435ab8c8b933b8408c_5508300109869918091.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Lan Yan",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/01/17/02a299cec38b4ef4f21952c37a624258_5744396397316809821.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/01/31/35428890/637fe2a7402e611f03d7bae55de9606c_7898798776492431834.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 43,
+      "name": "Trishiraita",
+      "region": "Sumeru",
+      "current": 0,
+      "ideal": 168,
+      "balance": -168,
+      "characters": [
+        {
+          "name": "Sethos",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/05/30/cdb7abfcb86138e5b618946a5466d442_2702695812908100899.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://upload-static.hoyoverse.com/hoyolab-wiki/2023/06/21/89220822/4098e309f5d46019ddc4d0b50bcf5871_8524578443538289238.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 44,
+      "name": "Guelra da Espuma",
+      "region": "Natlan",
+      "current": 24,
+      "ideal": 165,
+      "balance": -141,
+      "characters": [
+        {
+          "name": "Mualani",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/26/f4c75caad42923eb91ee760aa2eb473a_7439123622315070718.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://gensh.honeyhunterworld.com/img/i_n101247.webp"
+    },
+    {
+      "id": 45,
+      "name": "Baga Quenepa",
+      "region": "Natlan",
+      "current": 8,
+      "ideal": 165,
+      "balance": -157,
+      "characters": [
+        {
+          "name": "Kachina",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/08/23/26925adb1092d29c8afdf46d92fad8bd_343637410022641529.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Citlali",
+          "need": 0,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/27/c4ab2530bb8bbe3c0e811684f97ec124_6688582217610741079.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/09/15/94376896/d434f6062f095d97678b190be243a519_7817919608339160158.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 46,
+      "name": "Suculenta de Garra Sauriana",
+      "region": "Natlan",
+      "current": 24,
+      "ideal": 333,
+      "balance": -309,
+      "characters": [
+        {
+          "name": "Kinich",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/12/0099e74b4d0c919f6feab4bade3ab748_5795733017114624391.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Ifa",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/04/30/ce693d1e36aef5936b2d2db006605fc4_9036718103340803450.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/09/15/94376896/49b73558803efe4f07d14f9a14abf3a2_4088771567171166196.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 47,
+      "name": "Crisântemo Brilhante",
+      "region": "Natlan",
+      "current": 29,
+      "ideal": 168,
+      "balance": -139,
+      "characters": [
+        {
+          "name": "Xilonen",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/09/25/b07074c2b9040516fd240b6b8d65c011_2487211347344319683.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2024/11/11/100430559/8f8de98c77c9e4eee95e510f60d2b671_1953144100891006198.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 48,
+      "name": "Flor Púrpura Definhada",
+      "region": "Natlan",
+      "current": 11,
+      "ideal": 330,
+      "balance": -319,
+      "characters": [
+        {
+          "name": "Chasca",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/18/abe1192cc7aad45f6b273478dd5fa88a_4799372826012752249.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Mavuika",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/30/2f098b1f15854fd9dafc54998795a59e_864981592196815761.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://gensh.honeyhunterworld.com/img/i_n101253.webp"
+    },
+    {
+      "id": 49,
+      "name": "Cogumelo Brilhante",
+      "region": "Natlan",
+      "current": 42,
+      "ideal": 333,
+      "balance": -291,
+      "characters": [
+        {
+          "name": "Ororon",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/11/18/e4830690f8b6a1ebb02cfbc8ce955671_8091252479018770784.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Ineffa",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/07/28/7c221918444852e9a3c2ad609ccacea2_8687518447126752117.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://gensh.honeyhunterworld.com/img/i_n101252.webp"
+    },
+    {
+      "id": 50,
+      "name": "Florgema Celeste",
+      "region": "Natlan",
+      "current": 40,
+      "ideal": 336,
+      "balance": -296,
+      "characters": [
+        {
+          "name": "Varesa",
+          "need": 168,
+          "imageURL": "https://act-upload.hoyoverse.com/event-ugc-hoyowiki/2025/04/01/11094433/9c03cec8ac6fc9058d1b4c2616ea7fd3_4942594065919993115.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Skirk",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/06/16/48dba0c10560a3ef573f17d97408b5a0_2527001828446746987.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/17/82902cec095daf4d3a0aad3d0e975075_2256101611360374803.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 51,
+      "name": "Dracolita",
+      "region": "Natlan",
+      "current": 5,
+      "ideal": 165,
+      "balance": -160,
+      "characters": [
+        {
+          "name": "Iansan",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/25/dd9a200a86b792fb1b73ef1ee7de0911_2097378734184941134.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/03/17/987f2402b2589552ea4a27111e7eb968_7580151143908062396.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 52,
+      "name": "Prata Lunar",
+      "region": "Nod-Krai",
+      "current": 239,
+      "ideal": 165,
+      "balance": 74,
+      "characters": [
+        {
+          "name": "Lauma",
+          "need": 0,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/09/08/b06e9ff48d57de4856f1a05b1199aae1_8565150401481594895.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Nefer",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/10/21/7557acebcb72b4d9912bcb0e6c92306a_3655566527985254987.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/09/01/c7f0e83c1035d7bc981f47bee2815517_3620069293336287995.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 53,
+      "name": "Flor da Geada",
+      "region": "Nod-Krai",
+      "current": 211,
+      "ideal": 333,
+      "balance": -122,
+      "characters": [
+        {
+          "name": "Flins",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/09/26/4ac47a285a0abaada08f3216bdd22b0e_7846853832529267058.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Durin",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/10/24/f4bf9d8aef5700c63aa2767c30cff2ca_6938893850254477447.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/09/01/e33339f0209623f7608a3d414593a95c_3596443329389083818.png?x-oss-process=image%2Fformat%2Cwebp"
+    },
+    {
+      "id": 54,
+      "name": "Rolamento Portátil",
+      "region": "Nod-Krai",
+      "current": 212,
+      "ideal": 333,
+      "balance": -121,
+      "characters": [
+        {
+          "name": "Aino",
+          "need": 165,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/09/09/4e58c851d6c947865026faa168db83bd_3944254802105067377.png?x-oss-process=image%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Jahoda",
+          "need": 168,
+          "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/10/24/19708bac6eba4779a70908bf0bee70b1_2592990473625662573.png?x-oss-process=image%2Fformat%2Cwebp"
+        }
+      ],
+      "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2025/09/01/f1f7b92e9cffc5624b3fbdd25b36a4f3_499475582312170606.png?x-oss-process=image%2Fformat%2Cwebp"
     }
   ],
-  "activeItemId": 1
+  "activeItemId": 54
 }
