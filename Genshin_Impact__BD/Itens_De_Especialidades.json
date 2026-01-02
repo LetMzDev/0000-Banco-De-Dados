@@ -556,9 +556,9 @@
       "id": 25,
       "name": "Onikabuto",
       "region": "Inazuma",
-      "current": 40,
+      "current": 41,
       "ideal": 155,
-      "balance": -115,
+      "balance": -114,
       "characters": [
         {
           "name": "Arataki Itto",
@@ -598,9 +598,9 @@
       "id": 27,
       "name": "Cogumelo Rukkhashava",
       "region": "Sumeru",
-      "current": 104,
+      "current": 110,
       "ideal": 168,
-      "balance": -64,
+      "balance": -58,
       "characters": [
         {
           "name": "Collei",
@@ -640,9 +640,9 @@
       "id": 29,
       "name": "Bagas de Espinheiro",
       "region": "Sumeru",
-      "current": 55,
+      "current": 62,
       "ideal": 330,
-      "balance": -275,
+      "balance": -268,
       "characters": [
         {
           "name": "Candace",
@@ -751,9 +751,9 @@
       "id": 35,
       "name": "Campânula Lumidouce",
       "region": "Fontaine",
-      "current": 133,
+      "current": 163,
       "ideal": 330,
-      "balance": -197,
+      "balance": -167,
       "characters": [
         {
           "name": "Lynette",
@@ -772,9 +772,9 @@
       "id": 36,
       "name": "Flor Rociomarinha",
       "region": "Fontaine",
-      "current": 40,
+      "current": 45,
       "ideal": 333,
-      "balance": -293,
+      "balance": -288,
       "characters": [
         {
           "name": "Freminet",
@@ -814,9 +814,9 @@
       "id": 38,
       "name": "Unidade de Subdetecção",
       "region": "Fontaine",
-      "current": 40,
+      "current": 55,
       "ideal": 165,
-      "balance": -125,
+      "balance": -110,
       "characters": [
         {
           "name": "Wriothesley",
@@ -851,9 +851,9 @@
       "id": 40,
       "name": "Concha de Cristal Azul",
       "region": "Fontaine",
-      "current": 10,
+      "current": 1,
       "ideal": 333,
-      "balance": -323,
+      "balance": -332,
       "characters": [
         {
           "name": "Charlotte",
@@ -888,9 +888,9 @@
       "id": 42,
       "name": "Jade Cristalino",
       "region": "Liyue",
-      "current": 0,
+      "current": 16,
       "ideal": 330,
-      "balance": -330,
+      "balance": -314,
       "characters": [
         {
           "name": "Xianyun",
@@ -909,9 +909,9 @@
       "id": 43,
       "name": "Trishiraita",
       "region": "Sumeru",
-      "current": 0,
+      "current": 15,
       "ideal": 168,
-      "balance": -168,
+      "balance": -153,
       "characters": [
         {
           "name": "Sethos",
@@ -925,9 +925,9 @@
       "id": 44,
       "name": "Guelra da Espuma",
       "region": "Natlan",
-      "current": 24,
+      "current": 46,
       "ideal": 165,
-      "balance": -141,
+      "balance": -119,
       "characters": [
         {
           "name": "Mualani",
@@ -941,9 +941,9 @@
       "id": 45,
       "name": "Baga Quenepa",
       "region": "Natlan",
-      "current": 8,
+      "current": 11,
       "ideal": 165,
-      "balance": -157,
+      "balance": -154,
       "characters": [
         {
           "name": "Kachina",
@@ -962,9 +962,9 @@
       "id": 46,
       "name": "Suculenta de Garra Sauriana",
       "region": "Natlan",
-      "current": 24,
+      "current": 10,
       "ideal": 333,
-      "balance": -309,
+      "balance": -323,
       "characters": [
         {
           "name": "Kinich",
@@ -983,9 +983,9 @@
       "id": 47,
       "name": "Crisântemo Brilhante",
       "region": "Natlan",
-      "current": 29,
+      "current": 44,
       "ideal": 168,
-      "balance": -139,
+      "balance": -124,
       "characters": [
         {
           "name": "Xilonen",
@@ -999,9 +999,9 @@
       "id": 48,
       "name": "Flor Púrpura Definhada",
       "region": "Natlan",
-      "current": 11,
-      "ideal": 330,
-      "balance": -319,
+      "current": 2,
+      "ideal": 165,
+      "balance": -163,
       "characters": [
         {
           "name": "Chasca",
@@ -1010,7 +1010,7 @@
         },
         {
           "name": "Mavuika",
-          "need": 165,
+          "need": 0,
           "imageURL": "https://act-webstatic.hoyoverse.com/event-static-hoyowiki-admin/2024/12/30/2f098b1f15854fd9dafc54998795a59e_864981592196815761.png?x-oss-process=image%2Fformat%2Cwebp"
         }
       ],
@@ -1020,9 +1020,9 @@
       "id": 49,
       "name": "Cogumelo Brilhante",
       "region": "Natlan",
-      "current": 42,
+      "current": 61,
       "ideal": 333,
-      "balance": -291,
+      "balance": -272,
       "characters": [
         {
           "name": "Ororon",
@@ -1041,9 +1041,9 @@
       "id": 50,
       "name": "Florgema Celeste",
       "region": "Natlan",
-      "current": 40,
+      "current": 49,
       "ideal": 336,
-      "balance": -296,
+      "balance": -287,
       "characters": [
         {
           "name": "Varesa",
@@ -1062,9 +1062,9 @@
       "id": 51,
       "name": "Dracolita",
       "region": "Natlan",
-      "current": 5,
+      "current": 3,
       "ideal": 165,
-      "balance": -160,
+      "balance": -162,
       "characters": [
         {
           "name": "Iansan",
@@ -1078,9 +1078,9 @@
       "id": 52,
       "name": "Prata Lunar",
       "region": "Nod-Krai",
-      "current": 239,
+      "current": 292,
       "ideal": 165,
-      "balance": 74,
+      "balance": 127,
       "characters": [
         {
           "name": "Lauma",
@@ -1099,9 +1099,9 @@
       "id": 53,
       "name": "Flor da Geada",
       "region": "Nod-Krai",
-      "current": 211,
+      "current": 308,
       "ideal": 333,
-      "balance": -122,
+      "balance": -25,
       "characters": [
         {
           "name": "Flins",
